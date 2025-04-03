@@ -97,8 +97,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   - Analytics dashboard
   - Category management
   - Dark theme UI
-
-## Acknowledgments
-
-- Flutter team for the amazing framework
-- All contributors and maintainers 
